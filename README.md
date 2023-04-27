@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To-do-list <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
 > A simple website that displays a simple HTML and css Leaderboard and will allow you to add name and score in the board in the later work.
 
@@ -65,9 +65,6 @@
   > A feature that allows you to store data on the client-side
   **[Modules]**
   > Modules can help keep code organized, improve maintainability, and reduce the likelihood of naming conflicts.
-  **[CRUD]**
-  > These are the basic operations used in databases and applications for managing data.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
