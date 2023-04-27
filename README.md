@@ -91,7 +91,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder git clone git@github.com:HenaryKhuraijam/To-do-List.git
+cd my-folder git clone https://github.com/SAZZAD1Q2/Leaderboard.git
 
 ### Install
 
@@ -145,10 +145,10 @@ GitHub pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Add application's styling]**
-- [ ] **[build a complete website with working navigation.]**
+- [ ] **[build a complete website with api.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
