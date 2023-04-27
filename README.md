@@ -162,7 +162,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project feel free to leave comments and contact via given author's information above.
+If you like this project feel free to leave comments and contact via given authors information above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
