@@ -162,8 +162,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write any message to encourage readers to support your project
-
 If you like this project feel free to leave comments and contact via given authors information above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -173,7 +171,7 @@ I would like to thank the code reviewers for taking time to do the work. A speci
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
