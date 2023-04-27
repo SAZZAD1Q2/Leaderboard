@@ -34,7 +34,7 @@
 
 # 📖 To-do-list <a name="about-project"></a>
 
-> A simple website that displays a simple HTML and css Leaderboard and will allow you to add name and score in the board in the later work.
+> A simple website that displays a simple HTML and css Leaderboard and will be allowd to add name and score in the board in the later work.
 
 ## 🛠 Built With <a name="built-with">
 -HTML
