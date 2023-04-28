@@ -41,6 +41,7 @@
 -CSS
 -Javascript
 -Es lint
+-api
 -Webpack</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -54,6 +55,7 @@
     <li>Css </li>
     <li>Javascript </li>
     <li> Webpack </li>
+    <li> api </li>
      </ul>
 </details>
 
@@ -69,16 +71,16 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Live Demo is not available
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+copy the url https://github.com/SAZZAD1Q2/Leaderboard.git
+
+Clone it.
+
+Open it in your code editor.
+
 
 ### Prerequisites
 
