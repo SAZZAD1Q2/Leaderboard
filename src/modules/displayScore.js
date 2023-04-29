@@ -1,7 +1,7 @@
 const scoreList = document.getElementById('scoreList');
 
 const displayScores = (scores) => {
-  scoreList.innerHTML = ''; // Clear the previous scores
+  scoreList.innerHTML = '';
   scores.forEach((score, index) => {
     const row = document.createElement('tr');
     const nameCol = document.createElement('td');
@@ -12,7 +12,7 @@ const displayScores = (scores) => {
     row.appendChild(scoreCol);
     scoreList.appendChild(row);
 
-    // Change the background color of the row using inline CSS
+    // changed row color every time
     row.style.backgroundColor = index % 2 === 0 ? '#e6e6e6' : '#f2f2f2';
   });
 };
