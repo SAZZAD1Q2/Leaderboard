@@ -1,6 +1,6 @@
 import { postScore, getScores } from './getScore.js';
 
-function submitForm() {
+const submitForm = () => {
   const form = document.querySelector('.form');
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -9,5 +9,6 @@ function submitForm() {
     await getScores();
     form.reset();
   });
-}
+};
+
 export default submitForm;

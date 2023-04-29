@@ -1,4 +1,4 @@
-function displayScores(scores) {
+const displayScores = (scores) => {
   const ul = document.querySelector('.displayScore');
   ul.innerHTML = '';
 
@@ -7,5 +7,6 @@ function displayScores(scores) {
     li.textContent = `${user.user}: ${user.score}`;
     ul.appendChild(li);
   });
-}
+};
+
 export default displayScores;
