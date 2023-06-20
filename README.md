@@ -61,7 +61,7 @@ I used js es6 syntax and webpack in this project.
 
 ### Key Features <a name="key-features"></a>
 
-> **[Local Storage]**
+> **[Api]**
   > A feature that allows you to store data on the client-side
   **[Modules]**
   > Modules can help keep code organized, improve maintainability, and reduce the likelihood of naming conflicts.
