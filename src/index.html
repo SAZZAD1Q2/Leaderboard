@@ -12,21 +12,28 @@
       <h1 class="main-title">Leaderboard</h1>
       <div class="title">
         <h1>Recent scores</h1>
-        <button type="button" class="ref_btn">Refresh</button>
+        <button type="submit" id="refresh" class="ref_btn">Refresh</button>
       </div>
+      
       <table id="scoreTable">
-        <tr>
-          <th>Name</th>
-          <th>Score</th>
-        </tr>
+        <thead>
+          <tr class="row">
+            <th>Name</th>
+            <th>Score</th>
+          </tr>
+        </thead>
+        <tbody id="scoreList">
+          <!-- Scores will be dynamically added here -->
+        </tbody>
       </table>
     </div>
-    <form>
+    
+    <form class="form">
       <h1>Add Your Score</h1>
       <input
         type="text"
-        id="name"
-        name="name"
+        id="user"
+        name="user"
         placeholder="Your name"
       /><br /><br />
       <input
@@ -35,7 +42,7 @@
         name="score"
         placeholder="Your score"
       /><br /><br />
-      <input type="submit" value="Submit" class="submit" />
+      <button type="submit" value="Submit" class="submit">Submit</button>
     </form>
     <script type="module" src="./dist/bundle.js"></script>
   </body>

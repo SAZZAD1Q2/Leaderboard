@@ -40,7 +40,6 @@
 -HTML
 -CSS
 -Javascript
--Es linter
 -Webpack</a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -54,6 +53,7 @@ I used js es6 syntax and webpack in this project.
     <li>Css </li>
     <li>Javascript </li>
     <li> Webpack </li>
+    <li> api </li>
      </ul>
 </details>
 
@@ -65,20 +65,19 @@ I used js es6 syntax and webpack in this project.
   > A feature that allows you to store data on the client-side
   **[Modules]**
   > Modules can help keep code organized, improve maintainability, and reduce the likelihood of naming conflicts.
- 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Live Demo is not available
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+copy the url https://github.com/SAZZAD1Q2/Leaderboard.git
+
+Clone it.
+
+Open it in your code editor.
+
 
 ### Prerequisites
 
@@ -145,10 +144,6 @@ GitHub pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[Add application's styling]**
-- [ ] **[build a website dynamic with api.]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -161,8 +156,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project feel free to leave comments and contact via given authors information above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -172,7 +165,7 @@ I would like to thank the code reviewers for taking time to do the work. A speci
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
