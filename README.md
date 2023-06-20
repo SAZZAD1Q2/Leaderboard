@@ -34,19 +34,17 @@
 
 # 📖 Leaderboard <a name="about-project"></a>
 
-> A simple website that displays a simple HTML and css Leaderboard and will allow you to add name and score in the board in the later work.
+> A simple website that displays a simple HTML and css and js using webpack Leaderboard and will be allowd to add name and score in the board in the later work.
 
 ## 🛠 Built With <a name="built-with">
 -HTML
 -CSS
 -Javascript
--Es lint
--api
 -Webpack</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+I used js es6 syntax and webpack in this project.
 
 <details>
   <summary>Client</summary>
@@ -63,11 +61,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-> **[Local Storage]**
+> **[Api]**
   > A feature that allows you to store data on the client-side
   **[Modules]**
   > Modules can help keep code organized, improve maintainability, and reduce the likelihood of naming conflicts.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -146,11 +143,6 @@ GitHub pages
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-
-
-- [ ] **[Add application's styling]**
-- [ ] **[build a complete website with api.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
