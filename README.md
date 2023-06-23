@@ -81,7 +81,7 @@ Open it in your code editor.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need to:
 
 - Any text editor (preferably Visual Studio Code)
 - Github
